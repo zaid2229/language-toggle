@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include change_language *.css
+recursive-include change_language *.csv
+recursive-include change_language *.html
+recursive-include change_language *.ico
+recursive-include change_language *.js
+recursive-include change_language *.json
+recursive-include change_language *.md
+recursive-include change_language *.png
+recursive-include change_language *.py
+recursive-include change_language *.svg
+recursive-include change_language *.txt
+recursive-exclude change_language *.pyc
