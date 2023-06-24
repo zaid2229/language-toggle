@@ -1,6 +1,6 @@
 The Frappe Language Toggle Application is a custom JavaScript (JS) app developed to toggle between English (eng) and Arabic (ar) languages in the Frappe framework. The primary purpose of this application is to provide an intuitive and seamless way for users to switch between the two languages on the fly. This document outlines the app's functionalities, setup instructions, and usage.
 
-##Features
+###Features
 
 #Real-Time Language Switching: The application allows users to change the interface language between English and Arabic in real time, without having to refresh the page.
 
